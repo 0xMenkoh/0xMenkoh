@@ -2,13 +2,13 @@
 C:\Github\Users\0xMenkoh> fetchprofile
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/951925116227436624/951925894975488030/scarface-smoking.gif" width="250" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/951925116227436624/951928844179345488/a_784207f09bfed6210be3fc12eb6c66d5.gif" width="250" /> 
 
 ```csharp
- menkoh@github
+ Menkoh@github
 -----------------
 
-     Name  :  0xMenkoh
+     Name  :  Menkoh
 Interests  :  Make money, Development, Finance
       WIP  :  Geass
 Termninal  :  Hyper
