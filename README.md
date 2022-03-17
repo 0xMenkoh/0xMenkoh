@@ -14,5 +14,5 @@ Interests  -  Make money, Development, Finance
 Termninal  -  Hyper
 Languages  -  JS, Python, C#
     Alias  -  Kimbo
-  Discord  -  user#0000 | 954051011801137234
+  Discord  -  Stoney#9306 | 954051011801137234
 ```
