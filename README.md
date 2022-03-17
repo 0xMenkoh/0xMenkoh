@@ -14,5 +14,5 @@ Interests  -  Make money, Development, Finance
 Termninal  -  Hyper
 Languages  -  JS, Python, C#
     Alias  -  Kimbo
-  Discord  -  user#0000 | 944999926662832178
+  Discord  -  user#0000 | 954051011801137234
 ```
