@@ -10,7 +10,7 @@ C:\Github\Users\0xMenkoh> fetchprofile
 
      Name  -  Menkoh
 Interests  -  Make money, Development, Finance
-      WIP  -  Geass (open Marketplace)
+      WIP  -  NFTs Drain/Phishing
 Termninal  -  Hyper
 Languages  -  JS, Python, C#
     Alias  -  Kimbo
