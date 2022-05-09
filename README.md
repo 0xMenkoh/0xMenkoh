@@ -10,7 +10,7 @@ C:\Github\Users\0xMenkoh> fetchprofile
 
      Name  -  Menkoh
 Interests  -  Make money, Development, Finance
-      WIP  -  https://t.me/cryptodrainers
+      WIP  -  t.me/cryptodrainers
 Languages  -  Html, JS, Python, C#
     Alias  -  Kimbo
   Discord  -  Stoney#9306 | 954051011801137234
