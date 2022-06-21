@@ -1,10 +1,10 @@
 ![banner](https://i.imgur.com/jgNwkmt.jpg)
-<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm LAW - Tutorials</h1>
+<h1 align ="center">Hi,<img src ="https://emoji.discord.st/emojis/64c48f99-d152-4aa4-97c3-1fa9216edb96.png"width = 35> 0xMenkoh - Profile</h1>
 <h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
   
 <p align="center">
-    <a href="https://discordapp.com/users/266801108578467846" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/int-leet" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://discordapp.com/users/178529966684766209" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/0xMenkoh" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>  
   
   
@@ -28,12 +28,12 @@
 <div>
 <h2  > Join US Now</h2>
 
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/cPKc5B6Gnv)
+[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/fvaYYSVpDV)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LawOff)
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xMenkoh)
 <br>  
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
-https://lawyt.sellix.io)
+https://tec.sellix.io)
 <br>  
 </div>
 <br>
