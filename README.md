@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/jgNwkmt.jpg)
 <h1 align ="center">Hi,<img src ="https://emoji.discord.st/emojis/64c48f99-d152-4aa4-97c3-1fa9216edb96.png"width = 35> 0xMenkoh - Profile</h1>
-<h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
+<h3 align = "center"><strong>Crypto Enthusiastic 👨🏻‍🎨</h3>
   
 <p align="center">
     <a href="https://discordapp.com/users/178529966684766209" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
