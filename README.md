@@ -1,5 +1,5 @@
 ![banner](https://i.imgur.com/jgNwkmt.jpg)
-<h1 align ="center">Welcome - <img src ="https://emoji.discord.st/emojis/1a5c71a8-703b-4c09-938f-05e1e2d3d81d.gif"width = 35> 0xMenkoh - Profile</h1>
+<h1 align ="center"><img src ="https://emoji.discord.st/emojis/1a5c71a8-703b-4c09-938f-05e1e2d3d81d.gif"width = 35> 0xMenkoh - Profile</h1>
 <h3 align = "center"><strong>Crypto Enthusiastic 👨🏻‍🎨</h3>
   
 <p align="center">
