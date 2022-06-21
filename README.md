@@ -7,13 +7,8 @@
     <a href="https://github.com/int-leet" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>  
   
-  <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
-<p align="left"> <a href="https://www.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=ios&logoColor=black" alt="swift" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
- alt="css3"  /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> </a> <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/CSharp-8b32a8?&style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" /> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python 3-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a>
-<a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="PhotoShop" /> </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Illustrator-330000?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=yellow" alt="Illustrator" /> </a>  </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Premiere-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro"  /> </a>
-<br>
-<br>
-<br>
+  
+  
 <img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
@@ -26,7 +21,13 @@
 </div>
 <br>
 
-
+<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
+<p align="left"> <a href="https://www.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=ios&logoColor=black" alt="swift" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+ alt="css3"  /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> </a> <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/CSharp-8b32a8?&style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp" /> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python 3-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="PhotoShop" /> </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Illustrator-330000?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=yellow" alt="Illustrator" /> </a>  </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Premiere-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro"  /> </a>
+<br>
+<br>
+<br>
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <h2  > Join US Now</h2>
