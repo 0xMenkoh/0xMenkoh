@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/jgNwkmt.jpg)
+![banner](https://cdn.discordapp.com/attachments/987748605542666381/988795255144976404/F6D2836E-3732-4348-9823-C013E31AE4D0.jpg)
 <h1 align ="center"><img src ="https://emoji.discord.st/emojis/1a5c71a8-703b-4c09-938f-05e1e2d3d81d.gif"width = 35> 0xMenkoh - Profile</h1>
 <h3 align = "center"><strong>Crypto Enthusiastic 👨🏻‍🎨</h3>
   
@@ -25,7 +25,7 @@
 <br>
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
-<h2  > Join US Now</h2>
+<h2  > 🏆・Join US Now</h2>
 
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/fvaYYSVpDV)
 <br>  
