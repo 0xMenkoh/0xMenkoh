@@ -13,10 +13,9 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b>🙋🏻‍♂️・About ME <b></h2>
 <ul>
-<li>I'm constantly learning, and I like to share my knowledge</li>
-<li>I'm a student in computer engineering💻</li>
-<li>In my spare time, I'm a designer</li>
-<li>📭 Reach me on Telegram (https://t.me/Zentoh)</li>
+<li>I'm constantly learning, and I love blockchain</li>
+<li>In my spare time, I learn design</li>
+<li>📭 Reach me on Telegram https://t.me/Zentoh</li>
 <ul>
 </div>
 <br>
