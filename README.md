@@ -34,6 +34,8 @@
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
 https://tec.sellix.io)
 <br>  
+[<img align="top" alt="telegram" src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/zentoh)
+<br>
 </div>
 <br>
 </p>
