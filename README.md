@@ -1,4 +1,4 @@
-![banner](https://cdn.discordapp.com/attachments/987748605542666381/988795255144976404/F6D2836E-3732-4348-9823-C013E31AE4D0.jpg)
+![banner](https://user-images.githubusercontent.com/101424141/174809328-3591f1d7-cd70-4e8c-b7a5-0e927a4d7227.png)
 <h1 align ="center"><img src ="https://emoji.discord.st/emojis/1a5c71a8-703b-4c09-938f-05e1e2d3d81d.gif"width = 35> 0xMenkoh - Profile</h1>
 <h3 align = "center"><strong>Crypto Enthusiastic 👨🏻‍🎨</h3>
   
