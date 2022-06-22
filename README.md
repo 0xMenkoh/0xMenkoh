@@ -40,5 +40,3 @@ https://tec.sellix.io)
 </div>
 <br>
 </p>
-
-##### skidding = gay 
