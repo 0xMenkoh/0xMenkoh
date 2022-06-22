@@ -31,6 +31,8 @@
 <br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xMenkoh)
 <br>  
+
+##### skidding = gay 
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
 https://tec.sellix.io)
 <br>  
