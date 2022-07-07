@@ -26,16 +26,16 @@
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <h2  > 🏆・Join US Now</h2>
-  ---
+
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/fvaYYSVpDV)
 <br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xMenkoh)
 <br>  
 
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
-https://tec.sellix.io)
+https://Tec.sellix.io)
 <br>  
-[<img align="top" alt="telegram" src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/zentoh)
+[<img align="top" alt="telegram" src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Zentoh)
 <br>
 </div>
 <br>
