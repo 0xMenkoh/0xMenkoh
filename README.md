@@ -14,7 +14,7 @@
 <h2 style="font-size:30px"><b>🙋🏻‍♂️・About ME <b></h2>
 <ul>
 <li>I'm constantly learning, and I love blockchain</li>
-<li>In my spare time, I learn to use my brain 😼 (also coding)</li>
+<li>In my spare time, I learn to make cool stuff</li>
 <li>📭 Reach me on Telegram. @BinksZola</li>
 <ul>
 </div>
