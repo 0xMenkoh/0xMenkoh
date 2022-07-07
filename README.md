@@ -15,7 +15,7 @@
 <ul>
 <li>I'm constantly learning, and I love blockchain</li>
 <li>In my spare time, I learn to use my brain (also coding)</li>
-<li>📭 Reach me on Telegram</li> [here](https://t.me/Zentoh)
+<li>📭 Reach me on Telegram. @BinksZola</li>
 <ul>
 </div>
 <br>
@@ -26,7 +26,7 @@
 <img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
 <h2  > 🏆・Join US Now</h2>
-
+  ---
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/fvaYYSVpDV)
 <br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xMenkoh)
