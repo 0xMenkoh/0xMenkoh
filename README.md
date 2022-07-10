@@ -6,38 +6,3 @@
     <a href="https://discordapp.com/users/178529966684766209" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/0xMenkoh" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>  
-  
-  
-  
-<img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
-<div align = left width = 50%>
-<h2 style="font-size:30px"><b>🙋🏻‍♂️・About ME <b></h2>
-<ul>
-<li>I'm constantly learning, and I love blockchain</li>
-<li>In my spare time, I learn to make cool stuff</li>
-<li>📭 Reach me on Telegram. @BinksZola</li>
-<ul>
-</div>
-<br>
-
-<br>
-<br>
-<br>
-<img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
-<div>
-<h2  > 🏆・Join US Now</h2>
-
-  
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/fvaYYSVpDV)
-<br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/0xMenkoh)
-<br>  
-
-[<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
-https://Tec.sellix.io)
-<br>  
-[<img align="top" alt="telegram" src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Zentoh)
-<br>
-</div>
-<br>
-</p>
